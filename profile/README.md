@@ -1,12 +1,7 @@
-## Hi there 👋
+## 芒种(Grain in Beard)
 
-<!--
+- 基于vue3 + Arco-design 的前端解决方案
 
-**Here are some ideas to get you started:**
+- 将推出PC中台、移动端、小程序、大屏等各类快速开发模板(阶段性开源)
+- 设计指南、风格指南分享
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
